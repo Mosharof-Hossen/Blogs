@@ -121,3 +121,7 @@ Requirement Analysis →  System Design → Implementation → Testing → Deplo
 3. নতুন প্রযুক্তি নিয়ে কাজ করা হয়।
 
 **Waterfall Model** এবং **Agile Model** উভয়েরই নিজস্ব কার্যকর ক্ষেত্র রয়েছে। যদি আপনার প্রজেক্টে চাহিদা আগে থেকেই নির্দিষ্ট থাকে, তবে Waterfall Model ব্যবহার করুন। অন্যদিকে, যদি প্রজেক্টের চাহিদা প্রায়ই পরিবর্তিত হয় তবে Agile Model হলো আদর্শ।
+
+Author
+Mosharof Hossen
+[Facebook Profile](#https://www.facebook.com/mosharofhossenvai)
